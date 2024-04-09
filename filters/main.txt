@@ -3,10 +3,10 @@
 ! Title: 사이트 (맑은 고딕/굴림) 제거기
 ! Description: 사이트에서 강제하는 맑은 고딕이 싫습니다.
 ! Expires: 7 days
-! Version: 20230601_1
+! Version: 20240410_1
 
 ! 네이버
-naver.com#$#body, input, textarea, select, button, table { font-family: sans-serif!important; }
+naver.com#$#body, input, textarea, select, button, table, pre { font-family: sans-serif!important; }
 
 ! 디시
 dcinside.com#$#body, input, textarea, select, button, table, .gall_list { font-family: sans-serif!important; }
